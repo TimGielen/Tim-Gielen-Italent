@@ -26,8 +26,12 @@
             "href": "/experience"
         },
         {
-            "title": "Seminaries",
+            "title": "Projects",
             "href": "/projects"
+        },
+        {
+            "title": "Uitgelichte Seminaries",
+            "href": "/seminaries"
         },
         {
             "title": "Resume",
