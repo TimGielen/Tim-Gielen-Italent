@@ -45,6 +45,36 @@
                 "Crowbar",
                 "Security"
             ]
+        },{
+            "image" : "images/projects/Eurofins.png",
+            "title": "Reflexie",
+            "bodyText": "Het doel van dit seminarie is om aan te tonen hoe belangrijk security is binnen de IT-wereld. Er werden verschillende programma’s aangereikt om technologieën te gebruiken op niet bedoelde manier, beter gekend als hacken",
+            "links": [
+                {
+                    "text": "Portfolio",
+                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                }
+            ],
+            "tags" : [
+                "Kali Linux",
+                "Crowbar",
+                "Security"
+            ]
+        },{
+            "image" : "images/projects/Eurofins.png",
+            "title": "X-factor",
+            "bodyText": "",
+            "links": [
+                {
+                    "text": "Portfolio",
+                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                }
+            ],
+            "tags" : [
+                "Samen(net)werking & internationalisering",
+                "(Em)passie",
+                ""
+            ]
         }
     ]
 }
