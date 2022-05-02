@@ -8,7 +8,7 @@ const endpoints = {
   education: 'profile/education.json',
   experiences: 'profile/experiences.json',
   projects: 'profile/projects.json',
-  seminaries: 'profile/seminaries.json'
+  seminaries: 'profile/projects.json'
 };
 
 export default endpoints;
