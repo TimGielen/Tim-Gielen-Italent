@@ -17,22 +17,24 @@
             "title": "Education",
             "href": "/education"
         },
-        {
-            "title": "Experience",
-            "href": "/experience"
-        },
+       
         {
             "title": "Projects",
             "href": "/projects"
         },
         {
             "title": "Seminaries",
-            "href": "https://drive.google.com/file/d/1K5qXgTWgtP0311jJlF4GmoDS-L3fYWfg/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1GNGvHHk10eiEjtgdWseIXyC9f2CDMKb6/view?usp=sharing",
+            "type": "link"
+        },
+        {
+            "title": "Reflection",
+            "href": "https://drive.google.com/file/d/1BVNxRrnrmI6ve2AnJh9VJHXdMSbieJSY/view?usp=sharing",
             "type": "link"
         },
         {
             "title": "X-factor",
-            "href": "https://drive.google.com/file/d/1K5qXgTWgtP0311jJlF4GmoDS-L3fYWfg/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1myns-dJyvZg435em6IlKmNtjyIrMyb_m/view?usp=sharing",
             "type": "link"
         },
         {
@@ -42,7 +44,7 @@
         },
         {
             "title": "Portfolio",
-            "href": "https://drive.google.com/file/d/1K5qXgTWgtP0311jJlF4GmoDS-L3fYWfg/view?usp=sharing",
+            "href": "https://drive.google.com/file/d/1-8FunlXhzdf-Yd8NsAmRONHRh_PMVCTf/view?usp=sharing",
             "type": "link"
         }
     ]
