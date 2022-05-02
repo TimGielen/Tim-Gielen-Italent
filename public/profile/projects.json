@@ -6,8 +6,8 @@
             "bodyText": "Het doel van de Cyber Security Challenge is om samen in een team te zoeken naar flags die verborgen zitten in allerlei security gerelateerde opdrachten. We hadden samen met het team afgesproken om zeker de top 100 te behalen wat uiteindelijk ook gelukt is.",
             "links": [
                 {
-                    "text": "Portfolio of Cybersecurity challenge",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "text": "Portfolio verslag: Cybersecurity challenge",
+                    "href": "https://drive.google.com/file/d/1FsqoAztF4EHZMO3xGNhLo804Y5AiSH1S/view?usp=sharing"
                 }
             ],
             "tags" : [
@@ -21,8 +21,8 @@
             "bodyText": "Het doel van deze workshop/seminarie was om kennismaken te maken met en het aanleren van nieuwe technologieën binnen het platform van AWS. Mijn persoonlijk doel tijdens deze workshop was om in aanraking te komen met voor mij nog onbekende technologieën binnen AWS.",
             "links": [
                 {
-                    "text": "Portfolio",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "text": "Portfolio verslag: Gluo Infrastructure 2.0 ",
+                    "href": "https://drive.google.com/file/d/1L5_ZQ4iqcRqRTLRUYg9Wt09keWbZ9WIm/view?usp=sharing"
                 }
             ],
             "tags" : [
@@ -36,45 +36,17 @@
             "bodyText": "Het doel van dit seminarie is om aan te tonen hoe belangrijk security is binnen de IT-wereld. Er werden verschillende programma’s aangereikt om technologieën te gebruiken op niet bedoelde manier, beter gekend als hacken",
             "links": [
                 {
-                    "text": "Portfolio",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "text": "Portfolio verslag: Eurofins",
+                    "href": "https://drive.google.com/file/d/1IxjZ1UMJTFr1Vc474wO_IX0hnmjCaiMr/view?usp=sharing"
                 }
             ],
             "tags" : [
                 "Kali Linux",
                 "Crowbar",
                 "Security"
-            ]
-        },{
-            "image" : "images/projects/Eurofins.png",
-            "title": "Reflexie",
-            "bodyText": "Het doel van dit seminarie is om aan te tonen hoe belangrijk security is binnen de IT-wereld. Er werden verschillende programma’s aangereikt om technologieën te gebruiken op niet bedoelde manier, beter gekend als hacken",
-            "links": [
-                {
-                    "text": "Portfolio",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Kali Linux",
-                "Crowbar",
-                "Security"
-            ]
-        },{
-            "image" : "images/projects/Eurofins.png",
-            "title": "X-factor",
-            "bodyText": "",
-            "links": [
-                {
-                    "text": "Portfolio",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
-                }
-            ],
-            "tags" : [
-                "Samen(net)werking & internationalisering",
-                "(Em)passie",
-                ""
             ]
         }
+
+    
     ]
 }

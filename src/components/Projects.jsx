@@ -46,17 +46,6 @@ const Projects = (props) => {
                   </Fade>
                 ))}
               </Row>
-
-              {!showMore
-                && (
-                <Button
-                  style={styles.showMoreStyle}
-                  variant={theme.bsSecondaryVariant}
-                  onClick={() => setShowMore(true)}
-                >
-                  show more
-                </Button>
-                )}
             </Container>
           </div>
         ) : <FallbackSpinner /> }
