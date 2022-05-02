@@ -1,7 +1,7 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
+            "image" : "images/projects/cscbe.jpg",
             "title": "Cyber Security Challenge 3.0",
             "bodyText": "Het doel van de Cyber Security Challenge is om samen in een team te zoeken naar flags die verborgen zitten in allerlei security gerelateerde opdrachten. We hadden samen met het team afgesproken om zeker de top 100 te behalen wat uiteindelijk ook gelukt is.",
             "links": [
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
+            "image" : "images/projects/Gluo.png",
             "title": "Gluo Infrastructure 2.0",
             "bodyText": "Het doel van deze workshop/seminarie was om kennismaken te maken met en het aanleren van nieuwe technologieën binnen het platform van AWS. Mijn persoonlijk doel tijdens deze workshop was om in aanraking te komen met voor mij nog onbekende technologieën binnen AWS.",
             "links": [
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
+            "image" : "images/projects/Eurofins.png",
             "title": "Eurofins",
             "bodyText": "Het doel van dit seminarie is om aan te tonen hoe belangrijk security is binnen de IT-wereld. Er werden verschillende programma’s aangereikt om technologieën te gebruiken op niet bedoelde manier, beter gekend als hacken",
             "links": [

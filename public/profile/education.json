@@ -13,10 +13,8 @@
             "title": "Juni 2016",
             "cardTitle": "Sociale teschnische wetenschappen",
             "cardSubtitle":"SJB, Zonhoven",
-            "cardDetailedText": "",
-            "icon" : {
-                "src": "images/education/sjb.png"
-            }
+            "cardDetailedText": ""
+           
         }
     ]
 }
