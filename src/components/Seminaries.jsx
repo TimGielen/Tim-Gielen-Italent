@@ -17,15 +17,14 @@ const styles = {
   },
 };
 
-const Top_3_Seminaries = (props) => {
+const Projects = (props) => {
   const theme = useContext(ThemeContext);
   const { header } = props;
   const [data, setData] = useState(null);
   const [showMore, setShowMore] = useState(false);
 
   useEffect(() => {
-    fetch(endpoints.Top_3_Seminaries
-    , {
+    fetch(endpoints.projects, {
       method: 'GET',
     })
       .then((res) => res.json())
@@ -41,8 +40,7 @@ const Top_3_Seminaries = (props) => {
           <div className="section-content-container">
             <Container style={styles.containerStyle}>
               <Row xs={1} sm={1} md={2} lg={3} className="g-4">
-                {data.Top_3_Seminaries
-              ?.slice(0, numberOfItems).map((project) => (
+                {data.projects?.slice(0, numberOfItems).map((project) => (
                   <Fade key={project.title}>
                     <ProjectCard project={project} />
                   </Fade>
@@ -66,8 +64,8 @@ const Top_3_Seminaries = (props) => {
   );
 };
 
-Top_3_Seminaries.propTypes = {
+Projects.propTypes = {
   header: PropTypes.string.isRequired,
 };
 
-export default Top_3_Seminaries;
+export default Projects;
